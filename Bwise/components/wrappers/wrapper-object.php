@@ -40,8 +40,7 @@
                                                         <option value=""></option>
                                                         <option value="">sima</option>
                                                         <option value="">ramla</option>
-                                                        <option value="">drouje</option>
-                                                        <option value="">dala</option>
+                                                        <option value="">brike</option>
                                                     </select>
                                                 </div>
                                             </div>

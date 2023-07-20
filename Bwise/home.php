@@ -143,7 +143,51 @@
     <div class="button">
       <i class="fas fa-user"></i>
       <span>Profile</span>
+    </div><div class="button">
+      <i class="fas fa-home"></i>
+      <span>Home</span>
     </div>
+    
+    <div class="button">
+      <i class="fas fa-search"></i>
+      <span>Search</span>
+    </div>
+    
+    <div class="button">
+      <i class="fas fa-envelope"></i>
+      <span>Messages</span>
+    </div>
+    
+    <div class="button">
+      <i class="fas fa-camera"></i>
+      <span>Camera</span>
+    </div>
+    
+    <div class="button">
+      <i class="fas fa-music"></i>
+      <span>Music</span>
+    </div>
+    
+    <div class="button">
+      <i class="fas fa-globe"></i>
+      <span>Explore</span>
+    </div>
+    
+    <div class="button">
+      <i class="fas fa-heart"></i>
+      <span>Favorites</span>
+    </div>
+    
+    <div class="button">
+      <i class="fas fa-shopping-cart"></i>
+      <span>Cart</span>
+    </div>
+    
+    <div class="button">
+      <i class="fas fa-user"></i>
+      <span>Profile</span>
+    </div>
+
 
   </div>
 
